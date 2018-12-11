@@ -1,0 +1,2 @@
+# VAE-On-Fashion-MNist
+Our group aims to learn about Variational Autoencoders by training a VAE model using Keras. The dataset we used was Fashion MNIST, a collection of 28x28 pixel images split into 10 classes of clothing items. We used the encoder model to output a visualization of the dataset’s latent space, and plotted similarity between images. To learn more about VAEs, we also analyzed the mathematical models behind concept, compared the method to autoencoders + PCA, and explored applications of VAE in domains other than image generation.
